@@ -67,7 +67,7 @@ body{
 }
 .cssmenu li.active> a, .cssmenu li> a:hover {
 	color:#000;
-	background:#595959;
+	background:#87dbd0;
 	-webkit-transition: all 0.3s ease;
 	-moz-transition: all 0.3s ease;
 	-o-transition: all 0.3s ease;
@@ -138,7 +138,7 @@ body{
 	cursor: pointer;
 	padding:10px 30px;
 	display: inline-block;
-	border-bottom: 3px solid #595959;
+	border-bottom: 3px solid #87dbd0;
 	letter-spacing: 1px;
 	outline: none;
 	float:right;
@@ -156,7 +156,7 @@ body{
 	cursor: pointer;
 	padding:8px 20px;
 	display: inline-block;
-	border-bottom: 3px solid #595959;
+	border-bottom: 3px solid #87dbd0;
 	letter-spacing: 1px;
 	outline: none;
 	position: relative;
@@ -187,7 +187,7 @@ body{
 .slider-left h3{
 	font-size:4em;
 	color:#000;
-	background:#595959;
+	background:#87dbd0;
 	font-family: "Century Gothic";
 	text-transform:uppercase;
 	margin-bottom:10px;
@@ -198,7 +198,7 @@ body{
 .slider-left h4{
 	font-size:4em;
 	color:#000;
-	background:#595959;
+	background:#87dbd0;
 	font-family: "Century Gothic";
 	text-transform:uppercase;
 	font-weight:600;
@@ -290,7 +290,7 @@ p.bottom{
 	display: block;
 	float:left;
 	margin:0% 0 0% 3.6%;
-	background: #595959;
+	background: #87dbd0;
 	cursor:pointer;
 }
 .span_1_of_4:hover {
@@ -331,7 +331,7 @@ p.bottom{
 	text-transform:lowercase;
 }
 span.small{
-	color:#595959;
+	color:#87dbd0;
 }
 .grid1{
 	text-align:center;
@@ -364,7 +364,7 @@ span.small{
 }
 .content-middle h2 span{
 	background:#000000;
-	color:#595959;
+	color:#87dbd0;
 	padding:5px 40px;
 }
 .content-middle p{
@@ -410,7 +410,7 @@ span.small{
 }
 .content-bottom h2 span{
 	background:#000000;
-	color:#595959;
+	color:#87dbd0;
 	padding:5px 40px;
 }
 .content-bottom p{
@@ -607,7 +607,7 @@ span.small{
 	padding: 0;
 }
 span.yellow a{
-	color:#595959;
+	color:#87dbd0;
 }
 span.yellow a:hover{
 	color:#fff;
@@ -715,7 +715,7 @@ li.dribble a span:hover {
 	letter-spacing: -1px;
 }
 .text{
-	border-bottom:1px solid #595959;
+	border-bottom:1px solid #87dbd0;
 	color:#fff;
 }
 .text img{
@@ -734,7 +734,7 @@ li.dribble a span:hover {
 	font-size:0.89em;
 }
 p.copy a {
-	color:#595959;
+	color:#87dbd0;
 }
 p.copy a:hover{
 	color:#fff;
@@ -763,7 +763,7 @@ p.copy a:hover{
 	margin-bottom:20px;
 }
 .search {
-	border-bottom:2px solid #595959;
+	border-bottom:2px solid #87dbd0;
 	color:#fff;
 }
 .search input[type="text"] {
@@ -791,7 +791,7 @@ p.copy a:hover{
 	padding:50px 0;
 }
 .banner h2{
-	color:#595959;
+	color:#87dbd0;
 	background: #424146;
 	padding: 10px 60px 10px 20px;
 	font-size: 2em;
@@ -855,7 +855,7 @@ p.copy a:hover{
 		font-size: 1.5em;
 	}
 	#filters li span.active {
-		background:#595959;
+		background:#87dbd0;
 		color:#000;
 	}
 #portfoliolist .portfolio {
@@ -979,7 +979,7 @@ p.img{
 }
 .proj-desc h4{
 	background:#000000;
-	color:#595959;
+	color:#87dbd0;
 	float:left;
 	font-size:1.4em;
 	padding:5px 10px;
@@ -996,7 +996,7 @@ p.img{
 }
 .related-desc h4 {
 	background: #000000;
-	color: #595959;
+	color: #87dbd0;
 	float:left;
 	font-size: 1.4em;
 	padding: 5px 10px;
@@ -1029,11 +1029,11 @@ p.img{
 	text-transform: uppercase;
 }
 .project-list li p a:hover{
-	color: #595959;
+	color: #87dbd0;
 }
 .project-list h4, .project-list1 h4, .project-list2 h4{
 	font-size:1.4em;
-	color:#595959;
+	color:#87dbd0;
 	margin-bottom: 30px;
 	text-transform: uppercase;
 }
@@ -1048,7 +1048,7 @@ p.img{
 	text-transform: uppercase;
 }
 .project-list1 li p a:hover{
-	color:#595959;
+	color:#87dbd0;
 }
 .project-list1{
 	background:#000000;
@@ -1079,7 +1079,7 @@ span a:hover{
 }
 .project-list2 li{
 	float: left;
-	background: #595959;
+	background: #87dbd0;
 	padding:5px;
 	margin:2px;
 }
@@ -1103,7 +1103,7 @@ span a:hover{
 	float:left;
 }
 .blog-bg{
-	background:#595959;
+	background:#87dbd0;
 	margin-bottom: 20px;
 }
 .blog-img, .blog-img1{
@@ -1133,7 +1133,7 @@ span.author{
 	padding: 0 10px 5px;
 }
 .blog-desc{
-	background:#595959;
+	background:#87dbd0;
 	padding:30px;
 }
 .blog-desc h5{
@@ -1219,7 +1219,7 @@ ul.blog-list li p a, .ul.blog-list1 li p a{
 	font-size: 0.89em;
 }
 ul.blog-list li p a:hover, .ul.blog-list1 li p a:hover{
-	color:#595959;
+	color:#87dbd0;
 }
 ul.dc_pagination {
 	height: 100%;
@@ -1253,7 +1253,7 @@ ul.dc_pagination li a {
 	font-size: 1.5em;
 }
 ul.dc_paginationA06 li a:hover, ul.dc_paginationA06 li a.current {
-	background:#595959;
+	background:#87dbd0;
 	color:#000;
 }
 /*--single--*/
@@ -1277,7 +1277,7 @@ p.blog-text{
 	padding-bottom:30px;
 }
 .point{
-	color: #595959;
+	color: #87dbd0;
 	background: #424146;
 	float:left;
 }
@@ -1302,11 +1302,11 @@ p.blog-text{
 .social-list li p {
 	float: left;
 	padding: 4px 10px 4px 10px;
-	background:#595959;
+	background:#87dbd0;
 	color:#000;
 }
 .gallery li p{
-	background:#595959;
+	background:#87dbd0;
 	padding:20px;
 	line-height:1.5em;
 	color:#000;
@@ -1319,7 +1319,7 @@ p.blog-text{
 }
 .related-post h4 {
 	background: #000000;
-	color: #595959;
+	color: #87dbd0;
 	text-transform: uppercase;
 	font-size: 1.4em;
 	padding: 5px 10px;
@@ -1328,7 +1328,7 @@ p.blog-text{
 }
 .blog-comment h5{
 	background: #000000;
-	color: #595959;
+	color: #87dbd0;
 	font-size: 1.4em;
 	padding:5px 20px;
 	float: left;
@@ -1424,7 +1424,7 @@ li.last-comment{
 	font-size: 1.1em;
 	font-weight: normal;
 	padding: 10px 20px;
-	border-bottom:2px solid #595959;
+	border-bottom:2px solid #87dbd0;
 	background: #000;
 	float:right;
 	display: inline-block;
@@ -1439,7 +1439,7 @@ li.last-comment{
 }
 h5.leave{
 	background: #000000;
-	color:#595959;
+	color:#87dbd0;
 	font-size: 1.4em;
 	padding: 5px 20px;
 	float:left;
@@ -1580,12 +1580,12 @@ h5.leave{
 	float: left;
 	background: #000;
 	height: 30px;
-	color: #595959;
+	color: #87dbd0;
 	padding: 8px 10px 0 10px;
 	font-size: 1.2em;
 }
 .percent-text{
-	background: #595959;
+	background: #87dbd0;
 	height: 33px;
 	float: left;
 	width: 74%;
@@ -1594,7 +1594,7 @@ h5.leave{
 	padding: 5px 20px 0;
 }
 .percent-text1{
-	background: #595959;
+	background: #87dbd0;
 	height: 33px;
 	float: left;
 	width: 70%;
@@ -1603,7 +1603,7 @@ h5.leave{
 	padding: 5px 20px 0;
 }
 .percent-text2{
-	background: #595959;
+	background: #87dbd0;
 	height: 33px;
 	float: left;
 	width:60%;
@@ -1612,7 +1612,7 @@ h5.leave{
 	padding: 5px 20px 0;
 }
 .percent-text3{
-	background: #595959;
+	background: #87dbd0;
 	height: 33px;
 	float: left;
 	width:65%;
@@ -1621,7 +1621,7 @@ h5.leave{
 	padding: 5px 20px 0;
 }
 .percent-text4{
-	background: #595959;
+	background: #87dbd0;
 	height: 33px;
 	float: left;
 	width:68%;
@@ -1630,7 +1630,7 @@ h5.leave{
 	padding: 5px 20px 0;
 }
 .percent-text5{
-	background: #595959;
+	background: #87dbd0;
 	height: 33px;
 	float: left;
 	width:65%;
@@ -1639,7 +1639,7 @@ h5.leave{
 	padding: 5px 20px 0;
 }
 .percent-text6{
-	background:#595959;
+	background:#87dbd0;
 	height: 33px;
 	float: left;
 	width:50%;
@@ -1648,7 +1648,7 @@ h5.leave{
 	padding: 5px 20px 0;
 }
 .percent-text7{
-	background: #595959;
+	background: #87dbd0;
 	height: 33px;
 	float: left;
 	width:65%;
@@ -1667,7 +1667,7 @@ h5.leave{
 }
 .about-middle h4 span {
 	background: #000000;
-	color: #595959;
+	color: #87dbd0;
 	padding: 5px 40px;
 }
 .about-middle p{
@@ -1690,10 +1690,10 @@ h5.leave{
 	-webkit-border-radius:200px;
 	-moz-border-radius:200px;
 	-o-border-radius:200px;
-	border:4px solid #595959;
+	border:4px solid #87dbd0;
 }
 .span_1_of_about-grids h3{
-	color:#595959;
+	color:#87dbd0;
 	padding: 5px 20px;
 	text-align: center;
 	font-size: 1.4em;
@@ -1773,7 +1773,7 @@ h5.leave{
 	font-size:0.89em;
 }
 span.yellow1 a {
-	color: #595959;
+	color: #87dbd0;
 	background:#000000;
 	padding:5px 10px;
 }
@@ -1808,7 +1808,7 @@ span.yellow1 a {
 }
 .page-not-found h4 span {
 	background: #000000;
-	color: #595959;
+	color: #87dbd0;
 	padding: 48px 0px 0;
 }
 .home{
@@ -1816,7 +1816,7 @@ span.yellow1 a {
 	font-size: 1.1em;
 	font-weight: normal;
 	padding: 10px 20px;
-	border-bottom: 2px solid #595959;
+	border-bottom: 2px solid #87dbd0;
 	background: #000;
 	display: inline-block;
 	-webkit-transition: all 0.3s ease-out;
@@ -1833,7 +1833,7 @@ span.yellow1 a {
 	font-size: 1.1em;
 	font-weight: normal;
 	padding: 10px 20px;
-	border-bottom: 2px solid #595959;
+	border-bottom: 2px solid #87dbd0;
 	background: #000;
 	display: inline-block;
 	-webkit-transition: all 0.3s ease-out;
@@ -1844,7 +1844,7 @@ span.yellow1 a {
 }
 .or{
 	display: inline-block;
-	background:#595959;
+	background:#87dbd0;
 	color:#000;
 	padding: 10px;
 	margin: 0 20px;
